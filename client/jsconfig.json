@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@/*":["./src/*"]  //setting the path of our app
+        }
+    }
+}
